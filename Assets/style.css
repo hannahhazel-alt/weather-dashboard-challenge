@@ -1,0 +1,11 @@
+#icon {
+    width: 50px;
+}
+
+.day-container {
+    background-color: #132b5f;
+}
+
+.customHeader {
+    background: linear-gradient(to right, #738bd5, #132b5f);
+}
